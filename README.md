@@ -6,5 +6,12 @@
 '''python
 ## tạo folder .venv chứa các thông tin về môi trường ảo  
 python -m venv .venv  
+```bash
+# Cài đặt các phụ thuộc
+npm install
+
+# Chạy ứng dụng
+npm start
+
 
 

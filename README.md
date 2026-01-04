@@ -5,7 +5,8 @@
 * **B2.2** gõ lệnh sau  
 ```bash
 # Thêm folder .venv chứa các tài nguyên môi trường ảo  
-python -m venv .venv  
+python -m venv .venv
+
 ```bash
 # Cài đặt các package cần thiết để chạy code  
 pip install -r requirements.txt

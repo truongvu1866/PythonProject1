@@ -3,10 +3,11 @@
 **B2**: tạo môi trường ảo của cho project (nếu dùng ide thì không cần làm)  
 * **B2.1** vào bên trong folder vừa tải về nhấp chuột trái vào khoảng trống chọn **Open in terminal**  
 * **B2.2** gõ lệnh sau  
-'''bash    
-#tạo folder .venv chứa các thông tin về môi trường ảo  
-python -m venv .venv
+```bash
+# Cài đặt các phụ thuộc
+npm install
 
-
+# Chạy ứng dụng
+npm start
 
 

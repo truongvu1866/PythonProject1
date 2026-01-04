@@ -4,10 +4,10 @@
 * **B2.1** vào bên trong folder vừa tải về nhấp chuột trái vào khoảng trống chọn **Open in terminal**  
 * **B2.2** gõ lệnh sau  
 ```bash
-# Thêm folder .venv chứa các tài nguyên môi trường ảo
-python -m venv .venv
-
-# Cài đặt các package cần thiết để chạy code
+# Thêm folder .venv chứa các tài nguyên môi trường ảo  
+python -m venv .venv  
+```bash
+# Cài đặt các package cần thiết để chạy code  
 pip install -r requirements.txt
 
 

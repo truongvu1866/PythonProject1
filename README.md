@@ -20,3 +20,7 @@ pip install -r requirements.txt
 python build_database.py
 ```
 xuất hiện [OK] trên terminal là đã xong  
+**B4** Chạy chương trình:  
+```bash
+python main.py
+```
